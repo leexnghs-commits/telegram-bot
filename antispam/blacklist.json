@@ -1,0 +1,50 @@
+{
+  "hard_ban_keywords": [
+    "먹튀", "슬롯", "바카라", "룰렛",
+    "무료 시그널", "free signal", "수익인증", "수익률 공개",
+    "텔레그램 수익", "일당 보장", "원금 보장",
+    "NFT 민팅", "whitelist spot",
+    "대출 상담", "작업대출",
+    "check your wallet", "airdrop claim", "claim your", "connect wallet",
+    "solana wallet", "sol wallet", "good drop",
+    "토큰 클레임", "알로케이션 확인",
+    "저평가 알트 선별", "저평가 알트 추천"
+  ],
+  "suspicious_patterns": [
+    "open\\.kakao\\.com/\\S+",
+    "linktr\\.ee/\\S+",
+    "https?://\\S+\\.(biz|xyz|info|click|top|gq|cf|ml|tk|ga|one)(/\\S*)?",
+    "https?://claim\\.\\S+"
+  ],
+  "whitelist_domains": [
+    "naver.com",
+    "news.naver.com",
+    "n.news.naver.com",
+    "finance.naver.com",
+    "chosun.com",
+    "joins.com",
+    "hankyung.com",
+    "mk.co.kr",
+    "sedaily.com",
+    "donga.com",
+    "yna.co.kr",
+    "reuters.com",
+    "bloomberg.com",
+    "wsj.com",
+    "ft.com",
+    "cnbc.com",
+    "marketwatch.com",
+    "yahoo.com",
+    "investing.com",
+    "tradingview.com",
+    "coindesk.com",
+    "cointelegraph.com",
+    "kr.investing.com",
+    "finviz.com",
+    "seekingalpha.com",
+    "x.com",
+    "twitter.com",
+    "youtube.com",
+    "youtu.be"
+  ]
+}
